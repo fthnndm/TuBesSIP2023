@@ -1,0 +1,1 @@
+var json_TerminalSuramadu_26 = {"type":"FeatureCollection","name":"TerminalSuramadu_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Terminal Suramadu"},"geometry":{"type":"Point","coordinates":[112.779304948814129,-7.213054663154955]}}]}
